@@ -1,0 +1,8 @@
+ChatGPT/LLM usage
+
+I used chatGPt to rewrite functions, to get nicer comments through code and to get nice print statements
+Next thing were i used it, is for audio conversion logic, since i didn't work with this kind of data till yet.
+Also, it helped me with chaning code due to some dependencies (swtiched to different package because of some problems with installation).
+
+Validation:
+- tested, run locally, went through logic of code and debug it, try with error cases, verify output 
