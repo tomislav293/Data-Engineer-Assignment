@@ -88,8 +88,8 @@ Follow the steps below to set up and run the project:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone ...
+cd ..
 ```
 
 ### 2. Create and Activate a Virtual Environment (Optional but Recommended)
